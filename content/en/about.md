@@ -20,4 +20,4 @@ Introducing and enforcing correct and responsible animal husbandry and animal pr
 
 We want to achieve our goals with our cooperating partners from the entire territory of Hungary.
 
-{{< figure src="/animalpolice/images/ar_cats.jpg" >}}
+{{< figure src="/images/ar_cats.jpg" >}}

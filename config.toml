@@ -1,4 +1,4 @@
-baseURL = 'https://allatrendorseg.github.io/'
+baseURL = 'https://allatrendorseg.github.io'
 title = 'Állatrendőrség Alapítvány'
 
 theme = "ananke"
@@ -6,8 +6,8 @@ theme = "ananke"
 DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "G-HS836SY8RX"
-enableRobotsTXT = true
+# googleAnalytics = "G-HS836SY8RX"
+# enableRobotsTXT = true
 
 [params]
 favicon = "images/logo-smallest.png"

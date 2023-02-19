@@ -22,9 +22,9 @@ Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cic�
 
 **Helyszín:** [Budapest, Csárda u. 10, 1112 Hungary](https://www.google.com/maps/place/Budai+Kis%C3%A1llatklinika+Rendel%C5%91int%C3%A9zete/@47.4601847,19.0090975,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dde8b4e67e71:0x6ab64ed305e20d1f!8m2!3d47.4602015!4d19.0112449)
 
-{{< figure src="/animalpolice/images/cathome/cat_cow.jpg">}}
+{{< figure src="/images/cathome/cat_cow.jpg">}}
 
-{{< figure src="/animalpolice/images/cathome/Klinika.jpg">}}
+{{< figure src="/images/cathome/Klinika.jpg">}}
 
 ## Adománygyűjtés
 
@@ -38,9 +38,9 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 - [MOM Bevásárlóközpont](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
 - [Asia Center](https://goo.gl/maps/3CKbBeMFaMtN5HSNA)
 
-{{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
+{{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
 
-{{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
+{{< figure src="/images/volunteering/adomanygyujtes.jpg">}}
 
 ## Ideiglenes Befogadás
 
@@ -52,7 +52,7 @@ Emellett az ideiglenes befogadással segítessz nekünk is, hogy több állatot 
 
 Ideiglenes befogadáskor a költségeket szervezetünk állja továbbra is (például orvosi ellátások, táp, alom, gyógyszerek), hogy befogadóinknak több ideje legyen arra, ami fontos: otthon, szeretet, tanítás megadására.
 
-{{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
+{{< figure src="/images/pexels-cathome.jpg">}}
 
 ## Szociális Média Karbantartása
 
@@ -62,7 +62,7 @@ Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél
 
 [TikTok](https://www.tiktok.com/@allatrendorsegalapitvany), [Instagram](https://www.instagram.com/allatrendorseg_alapitvany), [FaceBook](https://www.facebook.com/allatrendorseg2013) és [YouTube](https://www.youtube.com/@allatrendorsegalapitvany2841) accountjaink bármelyikéhez várunk segítséget!
 
-{{< figure src="/animalpolice/images/fb.jpg">}}
+{{< figure src="/images/fb.jpg">}}
 
 ## Egyéb Lehetőségek
 
@@ -75,4 +75,4 @@ Ha van marketinges / grafikus tudásod, vagy csak úgy érzed, szívesen lennél
 - Utánajárhatsz a lakossági bejelentéseknek.
 - Felveheted a kapcsolatot külföldi szervezetekkel.
 
-{{< figure src="/animalpolice/images/sp_volunteer.jpg">}}
+{{< figure src="/images/sp_volunteer.jpg">}}

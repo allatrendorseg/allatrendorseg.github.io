@@ -17,4 +17,4 @@ Vagy írj üzenetet közvetlenül weblapunkról:
 
 {{< form-contact action="https://formspree.io/f/xpzezzzn"  >}}
 
-{{< figure src="/animalpolice/images/kitten.jpg">}}
+{{< figure src="/images/kitten.jpg">}}

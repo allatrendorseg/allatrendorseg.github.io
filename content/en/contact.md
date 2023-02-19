@@ -17,4 +17,4 @@ Or send a message directly from this page:
 
 {{< form-contact action="https://formspree.io/f/xpzezzzn"  >}}
 
-{{< figure src="/animalpolice/images/kitten.jpg">}}
+{{< figure src="/images/kitten.jpg">}}

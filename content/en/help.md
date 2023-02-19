@@ -22,9 +22,9 @@ We are looking for help in taking care of our rescues (feeding, cleaning, occupa
 
 **Location:** [Budapest, Csárda u. 10, 1112 Hungary](https://www.google.com/maps/place/Budai+Kis%C3%A1llatklinika+Rendel%C5%91int%C3%A9zete/@47.4601847,19.0090975,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dde8b4e67e71:0x6ab64ed305e20d1f!8m2!3d47.4602015!4d19.0112449)
 
-{{< figure src="/animalpolice/images/cathome/cat_cow.jpg">}}
+{{< figure src="/images/cathome/cat_cow.jpg">}}
 
-{{< figure src="/animalpolice/images/cathome/Klinika.jpg">}}
+{{< figure src="/images/cathome/Klinika.jpg">}}
 
 ## Collecting Donations
 
@@ -40,9 +40,9 @@ For news and details, check out our [FaceBook page](https://www.facebook.com/all
 - [MOM Shopping Centre](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
 - [Asia Centre](https://goo.gl/maps/3CKbBeMFaMtN5HSNA)
 
-{{< figure src="/animalpolice/images/volunteering/adomanygyujtes_cut.jpg">}}
+{{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
 
-{{< figure src="/animalpolice/images/volunteering/adomanygyujtes.jpg">}}
+{{< figure src="/images/volunteering/adomanygyujtes.jpg">}}
 
 ## Temporary Fostering
 
@@ -54,7 +54,7 @@ In addition, you also make it possible for us to save another animal.
 
 In case of temporary admission, our organization continues to bear the costs (for example, medical care, food, litter, medicines) so that our volunteers have more time for what is important: caring for their temporary adoptee.
 
-{{< figure src="/animalpolice/images/pexels-cathome.jpg">}}
+{{< figure src="/images/pexels-cathome.jpg">}}
 
 ## Marketing Help
 
@@ -66,7 +66,7 @@ If you have marketing / graphic skills, or if you just feel that you would like 
 
 We are looking for a helping hand on any of our accounts: [TikTok](https://www.tiktok.com/@allatrendorsegalapitvany), [Instagram](https://www.instagram.com/allatrendorseg_alapitvany), [FaceBook](https://www.facebook.com/allatrendorseg2013) or [YouTube](https://www.youtube.com/@allatrendorsegalapitvany2841).
 
-{{< figure src="/animalpolice/images/fb.jpg">}}
+{{< figure src="/images/fb.jpg">}}
 
 ## Other Volunteering Opportunities
 
@@ -79,4 +79,4 @@ We are looking for a helping hand on any of our accounts: [TikTok](https://www.t
 - You can help to contact foreign organizations.
 - You can help to interpret and translate.
 
-{{< figure src="/animalpolice/images/sp_volunteer.jpg">}}
+{{< figure src="/images/sp_volunteer.jpg">}}
