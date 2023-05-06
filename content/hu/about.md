@@ -28,4 +28,8 @@ Számunkra az állatmentés elhivatottság, szabadidőnkben önkéntes alapon v�
 
 **Bankszámlaszám:** HU68 12010422-01418753-00100008
 
-{{< figure src="/images/ar_cats.jpg" >}}
+{{< figure src="/images/NEA.png" >}}
+
+{{< figure src="/images/ME_logo_szines_HU_440x270.png" >}}
+
+<!-- {{< figure src="/images/ar_cats.jpg" >}} -->

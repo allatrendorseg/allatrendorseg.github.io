@@ -20,4 +20,8 @@ Introducing and enforcing correct and responsible animal husbandry and animal pr
 
 We want to achieve our goals with our cooperating partners from the entire territory of Hungary.
 
-{{< figure src="/images/ar_cats.jpg" >}}
+{{< figure src="/images/NEA.png" >}}
+
+{{< figure src="/images/ME_logo_szines_HU_440x270.png" >}}
+
+<!-- {{< figure src="/images/ar_cats.jpg" >}} -->
