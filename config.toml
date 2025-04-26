@@ -5,7 +5,10 @@ theme = "ananke"
 
 DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
-Paginate = 1 # this is set low for demonstrating with dummy content. Set to a higher number
+
+# this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 1
+
 googleAnalytics = "G-HS836SY8RX"
 enableRobotsTXT = true
 
