@@ -17,7 +17,7 @@ Számunkra az állatmentés elhivatottság, szabadidőnkben önkéntes alapon v�
 &lt;li>Alom&lt;/li>
 &lt;li>Fekhelyek, takarók&lt;/li>
 &lt;/ul>
-&lt;h2 id="már-a-repontokon-is-támogathatod-az-állatrendőrség-alapítványt">Már a REpontokon is támogathatod az Állatrendőrség Alapítványt!&lt;/h2>
+&lt;h2 id="már-a-repontokon-is-támogathatod-az-állatrendőrség-alapítványt">Már a REpontokon is támogathatod az Állatrendőrség Alapítványt&lt;/h2>
 &lt;p>Talán már találkoztatok az új üvegvisszaváltó rendszerrel, a REponttal.
 Itt lehetőségetek van dönteni: a visszaváltott palackokért kapott összeget visszaigénylitek, vagy jótékony célra ajánljátok fel.
 Ha egy egyedi azonosítóhoz tartozó QR kódot használtok, akkor az összeg az ahhoz kapcsolt bankszámlára érkezik.&lt;/p></description></item><item><title>Önkéntesség</title><link>https://allatrendorseg.github.io/help/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://allatrendorseg.github.io/help/</guid><description>&lt;p>Miben segíthetsz?&lt;/p>
@@ -34,7 +34,7 @@ Ha egy egyedi azonosítóhoz tartozó QR kódot használtok, akkor az összeg az
 
 
 
-&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/xpzezzzn" method="POST" role="form">
+&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="#ZgotmplZ" method="POST" role="form">
 
  &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="name">Név&lt;/label>
  &lt;input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="name"/>
