@@ -16,6 +16,16 @@ Amire szükségünk lehet:
 - Alom
 - Fekhelyek, takarók
 
+## Már a REpontokon is támogathatod az Állatrendőrség Alapítványt!
+
+Talán már találkoztatok az új üvegvisszaváltó rendszerrel, a REponttal. 
+Itt lehetőségetek van dönteni: a visszaváltott palackokért kapott összeget visszaigénylitek, vagy jótékony célra ajánljátok fel. 
+Ha egy egyedi azonosítóhoz tartozó QR kódot használtok, akkor az összeg az ahhoz kapcsolt bankszámlára érkezik.
+
+Amennyiben az Állatrendőrség Alapítvány QR kódját olvassátok be, az üvegekért járó összeget alapítványunk kapja, így közvetlenül segítitek védenceinket.
+
+Ha ezen a módon is szeretnétek támogatni munkánkat, mentsétek el az alábbi QR kódot a telefonotokra, és a kifizetés kiválasztása után olvassátok be!
+
 ## Pénz Adomány
 
 Pénzadományaink segítenek fenntartani a CicaOtthont, fizetni mentett állataink kezelését, tápok és vitaminok beszerzését.
