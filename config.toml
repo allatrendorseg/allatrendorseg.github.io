@@ -3,6 +3,8 @@ title = 'Állatrendőrség Alapítvány'
 
 theme = "ananke"
 
+enableEmoji = true
+
 DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 

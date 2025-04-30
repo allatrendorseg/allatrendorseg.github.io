@@ -28,6 +28,13 @@ Ha ezen a módon is szeretnétek támogatni munkánkat, mentsétek el az alábbi
 
 {{< qr text="1464cd02-914d-4386-b7a6-1a318d302403" />}}
 
+Hálásan köszönjük minden segítségeteket – higgyétek el, a legkisebb támogatás
+is rengeteget számít!
+Köszönjük az árva állatok nevében!
+
+> [!IMPORTANT]+ Figyelem!
+> A visszaélések elkerülése érdekében mindig az allatrendorseg.hu weboldalról vagy hivatalos Facebook oldalunkról letöltött QR kódot használjátok!
+
 ## Pénz Adomány
 
 Pénzadományaink segítenek fenntartani a CicaOtthont, fizetni mentett állataink kezelését, tápok és vitaminok beszerzését.
