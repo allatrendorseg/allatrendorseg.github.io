@@ -33,7 +33,7 @@ is rengeteget számít!
 Köszönjük az árva állatok nevében!
 
 > [!IMPORTANT]+ Figyelem!
-> A visszaélések elkerülése érdekében mindig az allatrendorseg.hu weboldalról vagy hivatalos Facebook oldalunkról letöltött QR kódot használjátok!
+> A visszaélések elkerülése érdekében mindig az [allatrendorseg.com](https://www.allatrendorseg.com) weboldalról vagy hivatalos Facebook oldalunkról letöltött QR kódot használjátok!
 
 ## Pénz Adomány
 
