@@ -50,6 +50,5 @@ git commit -m "Update theme to the latest version"
 
 ## Refs
 
-Example site: <https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr>
-
-Photo by Pixabay: <https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/>
+- Ananke [example site](https://github.com/theNewDynamic/gohugo-theme-ananke/tree/master/exampleSite/content/fr)
+- Cover photo by [Pixabay](https://www.pexels.com/photo/adorable-animal-blurred-background-cat-207901/)
