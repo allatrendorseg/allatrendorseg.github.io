@@ -6,6 +6,27 @@ type: page
 menu: main
 ---
 
+## Pénz Adomány
+
+Pénzadományaink segítenek fenntartani a CicaOtthont, fizetni mentett állataink kezelését, tápok és vitaminok beszerzését.
+
+Ha segítenél, de nem tudod hogyan, a legkisebb összeggel is hozzájárulsz működésünkhöz.
+
+**Bankszámlaszám:** HU68 12010422-01418753-00100008
+
+## Adó 1%
+
+Együtt több életet menthetünk
+
+Az Állatrendőrség Alapítvány gondozásában tavaly több száz bajba jutott állat részesült segítségben – sokuk már szerető család tagja.
+Mindez nem jöhetett volna létre támogatóink nélkül.
+
+Ha hiszel abban, hogy a változás a szemléletformálással kezdődik, kérjük, ajánld fel személyi jövedelemadód 1%-át az Állatrendőrség Alapítvány javára.
+
+**Adószám:** 18514254-1-43
+
+További tudnivalókat és segítséget a nyilatkozattételhez megtalálsz a NAV hivatalos oldalán, vagy írj nekünk bizalommal vagy keresd fel az Állatrendőrség Alapítvány adó 1% felajánlás – [Adó1százalék.com](https://ado1szazalek.com/) oldalt!
+
 ## Tárgyi Adomány
 
 Vedd fel velünk a kapcsolatot, ha szeretnél tárgyi adományokkal segíteni, hogy tudjunk egyeztetni, mire van éppen szükségünk.
@@ -16,9 +37,10 @@ Amire szükségünk lehet:
 - Alom
 - Fekhelyek, takarók
 
-## Már a REpontokon is támogathatod az Állatrendőrség Alapítványt
+## REpont adományozás
 
 Talán már találkoztatok az új üvegvisszaváltó rendszerrel, a REponttal.
+
 Itt lehetőségetek van dönteni: a visszaváltott palackokért kapott összeget visszaigénylitek, vagy jótékony célra ajánljátok fel.
 Ha egy egyedi azonosítóhoz tartozó QR kódot használtok, akkor az összeg az ahhoz kapcsolt bankszámlára érkezik.
 
@@ -47,40 +69,16 @@ Nagyobb összegű vagy folyamatos hozzájárulás esetén – a támogatás jell
 
 Együttműködésünk keretében az alábbi előnyöket biztosítjuk támogatóinknak:
 
-- Adózási előnyök: Az Alapítvány közhasznú jogállásának köszönhetően hivatalos igazolást bocsátunk ki, amely az adóbevallásban felhasználható pénzbeli vagy természetbeni támogatás esetén.
+- **Adózási előnyök:** Az Alapítvány közhasznú jogállásának köszönhetően hivatalos igazolást bocsátunk ki, amely az adóbevallásban felhasználható pénzbeli vagy természetbeni támogatás esetén.
 
-- Népszerűsítési lehetőségek: Támogatóját – megegyezés alapján – megjelenítjük kiadványainkban, online felületeinken (honlap, közösségi média), valamint rendezvényeink helyszínein, plakátjainkon, standjainkon.
+- **Népszerűsítési lehetőségek:** Támogatóját – megegyezés alapján – megjelenítjük kiadványainkban, online felületeinken (honlap, közösségi média), valamint rendezvényeink helyszínein, plakátjainkon, standjainkon.
 
-- Egyedi megjelenési formák: Igény esetén lehetőséget biztosítunk kreatív, célzott megjelenésre is, akár közösen fejlesztett kampány vagy esemény formájában.
+- **Egyedi megjelenési formák:** Igény esetén lehetőséget biztosítunk kreatív, célzott megjelenésre is, akár közösen fejlesztett kampány vagy esemény formájában.
 
 Támogatásával nem csupán hozzájárul az állatvédelem fejlődéséhez, de példát mutat mások számára is, miközben saját márkája, vállalkozása társadalmilag felelős szereplőként jelenhet meg.
 
 Amennyiben szeretne részletesebben tájékozódni a támogatási és szponzorálási lehetőségekről, kérjük, vegye fel a kapcsolatot marketingcsoportunk vezetőjével az alábbi címen:
+
 [allatrendorsegalapitvany@gmail.com](mailto:allatrendorsegalapitvany@gmail.com)
 
-<!-- �� <allatrendorsegalapitvany@gmail.com> -->
-
 Köszönjük, hogy Ön is fontosnak tartja, hogy hangot adjunk azoknak, akik magukért nem tudnak kiállni!
-
-## Adó 1%
-
-Együtt több életet menthetünk
-
-Az Állatrendőrség Alapítvány gondozásában tavaly több száz bajba jutott állat részesült segítségben – sokuk már szerető család tagja.
-Mindez nem jöhetett volna létre támogatóink nélkül.
-
-Ha hiszel abban, hogy a változás a szemléletformálással kezdődik, kérjük, ajánld fel személyi jövedelemadód 1%-át az Állatrendőrség Alapítvány javára.
-
-**Adószám:** 18514254-1-43
-
-További tudnivalókat és segítséget a nyilatkozattételhez megtalálsz a NAV hivatalos oldalán, vagy írj nekünk bizalommal vagy keresd fel az Állatrendőrség Alapítvány adó 1% felajánlás – [Adó1százalék.com](https://ado1szazalek.com/) oldalt!
-
-## Pénz Adomány
-
-Pénzadományaink segítenek fenntartani a CicaOtthont, fizetni mentett állataink kezelését, tápok és vitaminok beszerzését.
-
-Ha segítenél, de nem tudod hogyan, a legkisebb összeggel is hozzájárulsz működésünkhöz.
-
-**Bankszámlaszám:** HU68 12010422-01418753-00100008
-
-**Adószám:** 18514254-1-43
