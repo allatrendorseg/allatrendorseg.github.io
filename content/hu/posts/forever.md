@@ -1,10 +1,9 @@
 ---
 weight: 1
+omit_header_text: true
 title: Hagyaték átadás
 summary: Mi történik a háziállatokkal, ha gazdájuk már nem tud róluk gondoskodni?
 ---
-
-## Hagyaték átadás
 
 *Mi történik a háziállatokkal, ha gazdájuk már nem tud róluk gondoskodni?*
 
@@ -52,14 +51,8 @@ Mit nyújt az Alapítvány?
 – Élethosszig tartó gondozás, ha szükséges
 – Minden beérkező támogatást közvetlenül az állatok jólétére fordítunk
 
-Ha szeretné megtudni, hogyan csatlakozhat az ÖrökGazdi Programhoz, keressen
-minket bizalommal:
-
-☎️ +36 30 3676424
-
-✉️ <info@allatrendorseg.hu> vagy <allatrendorsegalapitvany@gmail.com>
-
-🗺️ 1224 Budapest Fodor u 120.
+Ha szeretné megtudni, hogyan csatlakozhat az ÖrökGazdi Programhoz, [keressen
+minket](../contact.md) bizalommal!
 
 Segítsen, hogy a szeretett társak akkor is biztonságban legyenek, ha a gazdi már
 nincs velük!

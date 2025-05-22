@@ -77,8 +77,6 @@ Együttműködésünk keretében az alábbi előnyöket biztosítjuk támogatói
 
 Támogatásával nem csupán hozzájárul az állatvédelem fejlődéséhez, de példát mutat mások számára is, miközben saját márkája, vállalkozása társadalmilag felelős szereplőként jelenhet meg.
 
-Amennyiben szeretne részletesebben tájékozódni a támogatási és szponzorálási lehetőségekről, kérjük, vegye fel a kapcsolatot marketingcsoportunk vezetőjével az alábbi címen:
-
-[allatrendorsegalapitvany@gmail.com](mailto:allatrendorsegalapitvany@gmail.com)
+Amennyiben szeretne részletesebben tájékozódni a támogatási és szponzorálási lehetőségekről, kérjük, vegye fel a [kapcsolatot](../contact.md) munkatársainkkal!
 
 Köszönjük, hogy Ön is fontosnak tartja, hogy hangot adjunk azoknak, akik magukért nem tudnak kiállni!

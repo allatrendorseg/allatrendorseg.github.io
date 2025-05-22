@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-Miben segíthetsz?
+*Miben segíthetsz?*
 
 ## CicaOtthon
 
