@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-# People for Animals 2013 Foundation
+*People for Animals 2013 Foundation*
 
 Our foundation is an organization of citizen volunteers that was founded in 2013.
 Our founding members have several years of animal rescue experience.

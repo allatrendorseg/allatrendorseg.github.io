@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-## Donate Materials
+## Materials
 
 Contact us to get information of what we might need at the moment, as it could change with time.
 
@@ -16,7 +16,7 @@ Some donations we always take use of:
 - Cat litter
 - Cat baskets / beds / blankets
 
-## Donate Money
+## Money
 
 Donations help us maintain the CatHouse, pay our veterinary bills, buy the necessary food and medicine for our animals.
 

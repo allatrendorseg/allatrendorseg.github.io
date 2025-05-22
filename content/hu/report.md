@@ -1,5 +1,6 @@
 ---
-title: Éves Beszámolóink
+title: Beszámolóink
+summary: Éves beszámolóink
 omit_header_text: true
 weight: 6
 type: page

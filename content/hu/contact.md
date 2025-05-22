@@ -1,19 +1,19 @@
 ---
 title: Kapcsolat
+description: Vedd fel velünk a kapcsolatot!
 omit_header_text: true
-description: We'd love to hear from you
 weight: 4
 type: page
 menu: main
 ---
 
-## Elérhetőség
+**Címünk:** 📍 1224 Budapest Fodor utca 120.
 
-Keress minket alábbi elérhetőségeinken:
+**Hívj minket:** ☎️ +36 30 3676424
 
-**Email:** <info@allatrendorseg.com>
+**Küldj nekünk e-mailt:** ✉️ <info@allatrendorseg.com>
 
-Vagy írj üzenetet közvetlenül weblapunkról:
+Vagy írj üzenetet közvetlenül weblapunkról!
 
 {{< form-contact action="<https://formspree.io/f/xpzezzzn>"  >}}
 

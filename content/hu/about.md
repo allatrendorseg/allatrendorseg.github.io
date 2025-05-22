@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-## Emberek Az Állatokért 2013 Alapítvány
+*Emberek Az Állatokért 2013 Alapítvány*
 
 Alapítványunk civil önkéntesek szerveződése, amely 2013-ban alakult.
 Alapító tagjaink több éves állatmentői tapasztalattal rendelkeznek.

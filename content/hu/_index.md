@@ -1,13 +1,11 @@
 ---
 title: "Állatrendőrség Alapítvány"
 description: "Jótékonysági Szervezet"
-theme_version: "2.8.2"
 cascade:
   featured_image: "/images/ar_cat_cropped.jpg"
-weight: 1
 ---
 
-**Üdvözlünk alapítványunk honlapján! 😺**
+### Üdvözlünk alapítványunk honlapján! 😺
 
 Tudj meg többet rólunk!
 

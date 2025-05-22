@@ -3,6 +3,8 @@ title = 'Állatrendőrség Alapítvány'
 
 theme = "ananke"
 
+enableEmoji = true
+
 DefaultContentLanguage = "hu"
 SectionPagesMenu = "main"
 
@@ -12,6 +14,7 @@ pagination.pagerSize = 1
 googleAnalytics = "G-HS836SY8RX"
 enableRobotsTXT = true
 
+
 [params]
 favicon = "images/logo-smallest.png"
 site_logo = "images/logo-200.png"
@@ -19,31 +22,34 @@ recent_posts_number = 1
 background_color_class = "bg-dark-gray"
 description = "Charity Organization"
 
-[[params.ananke_socials]]
-name = "facebook"
+[params.ananke.social.follow]
+new_window_icon = false
+networks = ["facebook", "instagram", "tiktok", "youtube"]
+
+[params.ananke.social.facebook]
 label = "Facebook"
-url = "https://www.facebook.com/allatrendorseg2013"
+profilelink = "https://www.facebook.com/allatrendorseg2013"
 
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/allatrendorseg_alapitvany"
+[params.ananke.social.instagram]
+label = "Instagram"
+profilelink = "https://www.instagram.com/allatrendorseg_alapitvany"
 
-[[params.ananke_socials]]
-name = "tiktok"
-url = "https://www.tiktok.com/@allatrendorsegalapitvany"
+[params.ananke.social.tiktok]
+label = "TikTok"
+profilelink = "https://www.tiktok.com/@allatrendorsegalapitvany"
 
-[[params.ananke_socials]]
-name = "youtube"
-url = "https://www.youtube.com/@allatrendorsegalapitvany2841"
+[params.ananke.social.youtube]
+label = "YouTube"
+profilelink = "https://www.youtube.com/@allatrendorsegalapitvany2841"
 
 [languages]
 
 [languages.EN]
 title = "Animal Police Organization"
-weight = 1
+weight = 2
 contentDir = "content/en"
 
 [languages.HU]
 title = "Állatrendőrség Alapítvány"
-weight = 2
+weight = 1
 contentDir = "content/hu"

@@ -6,7 +6,7 @@ type: page
 menu: main
 ---
 
-How can you help?
+*How can you help?*
 
 ## CatHouse
 
