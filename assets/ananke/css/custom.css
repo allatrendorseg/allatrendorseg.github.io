@@ -6,3 +6,10 @@ nav img[src$="logo-200.png"] {
   height: auto;
   aspect-ratio: 200 / 148;
 }
+
+/* The header photo is set as an inline background-image, so until it arrives
+   the header is empty and shows as flat grey under the dark overlay. Fill it
+   with the photo's average colour (ar_cat_cropped.jpg) in the meantime. */
+header.cover {
+  background-color: rgb(143 144 136);
+}
