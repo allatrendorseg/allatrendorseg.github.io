@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify -d docs
+        run: HUGO_PARAMS_COMMIT=${GITHUB_SHA::7} hugo --minify -d docs # commit shows in the footer
 
       - name: Check site
         run: python3 scripts/check_site.py docs
