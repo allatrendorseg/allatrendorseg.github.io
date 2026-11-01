@@ -1,0 +1,6 @@
+{{- /* Start loading the header photo right away. The theme sets it as a CSS
+  background, which the browser otherwise finds late and loads last, so the
+  header shows plain grey for a moment before the photo pops in. */ -}}
+{{- with partials.Include "func/GetFeaturedImage.html" . }}
+<link rel="preload" as="image" href="{{ . }}" fetchpriority="high">
+{{- end }}
