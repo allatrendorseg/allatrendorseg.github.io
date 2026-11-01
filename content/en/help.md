@@ -36,9 +36,8 @@ For news and details, check out our [FaceBook page](https://www.facebook.com/all
 
 **Frequent Locations:**
 
-- [KÖKI Shopping Centre](https://goo.gl/maps/LN1HAJdnbkcwuqHo9)
-- [MOM Shopping Centre](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
-- [Asia Centre](https://goo.gl/maps/3CKbBeMFaMtN5HSNA)
+- [MOM Shopping Centre](https://maps.app.goo.gl/Vjs4HcyynXdDyoz7A)
+- [Etele Plaza](https://maps.app.goo.gl/M7F764LB3rykKoVk8)
 
 {{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
 

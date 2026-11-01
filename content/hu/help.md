@@ -34,9 +34,8 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 
 **Gyakori helyszíneink:**
 
-- [KÖKI Bevásárlóközpont](https://goo.gl/maps/LN1HAJdnbkcwuqHo9)
-- [MOM Bevásárlóközpont](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
-- [Asia Center](https://goo.gl/maps/3CKbBeMFaMtN5HSNA)
+- [MOM Bevásárlóközpont](https://maps.app.goo.gl/Vjs4HcyynXdDyoz7A)
+- [Etele Plaza](https://maps.app.goo.gl/M7F764LB3rykKoVk8)
 
 {{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
 
