@@ -1,5 +1,6 @@
-{{- /* Copy of the Ananke theme's list.html, but with the regular page header
-  (same as About, Contact...) instead of the tall home-page one. */ -}}
+{{- /* Based on the Ananke theme's list.html, but laid out like the regular pages
+  (same header as About, Contact..., same title and text column), with the
+  post cards below. */ -}}
 {{ define "header" }}{{ partials.Include "page-header.html" . }}{{ end }}
 
 {{ define "main" }}
@@ -8,11 +9,20 @@
     {{ $summary_template = "summary-with-image" }}
   {{ end }}
 
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
-      {{- .Content -}}
-    </section>
-    <section class="flex-ns mt5 flex-wrap justify-around">
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7 w-100">
+      <header>
+        <h1 class="f1">
+          {{ .Title }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+        {{ .Content }}
+      </div>
+    </article>
+  </div>
+  <div class="pa3 pa4-ns">
+    <section class="flex-ns flex-wrap justify-around">
       {{ range .Paginator.Pages }}
         <div class="w-100 w-30-l mb4 relative bg-white">
           {{ .Render $summary_template }}
@@ -20,5 +30,5 @@
       {{ end }}
     </section>
     {{ partial "pagination.html" . -}}
-  </article>
+  </div>
 {{ end }}
