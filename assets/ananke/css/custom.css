@@ -262,3 +262,8 @@ footer .ananke-socials {
   flex-wrap: nowrap;
   align-items: center;
 }
+
+/* Home header subtitle: balance wrapped lines instead of leaving one word alone */
+header h2 {
+  text-wrap: balance;
+}

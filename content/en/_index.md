@@ -1,6 +1,6 @@
 ---
 title: "Animal Police Foundation"
-description: "Charity Organization"
+description: "Animal rescue foundation since 2013: rescuing, treating and rehoming animals in need."
 cascade:
   featured_image: "/images/ar_cat_cropped.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Állatrendőrség Alapítvány"
-description: "Jótékonysági Szervezet"
+description: "Állatmentő alapítvány 2013 óta: bajba jutott állatok mentése, gyógyítása és örökbeadása."
 cascade:
   featured_image: "/images/ar_cat_cropped.jpg"
 ---
