@@ -1,7 +1,5 @@
 # Animal Police hugo website
 
-Made to replace the [old website](https://www.allatrendorseg.com/post/hollandi%C3%A1ban-is).
-
 ## Development
 
 ### Quick start
