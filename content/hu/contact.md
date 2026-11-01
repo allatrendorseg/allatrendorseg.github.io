@@ -11,7 +11,7 @@ menu: main
 
 **Hívj minket:** ☎️ +36 30 3676424
 
-**Küldj nekünk e-mailt:** ✉️ <info@allatrendorseg.com>
+**Küldj nekünk e-mailt:** ✉️ <allatrendorsegalapitvany@gmail.com>
 
 Vagy írj üzenetet közvetlenül weblapunkról!
 

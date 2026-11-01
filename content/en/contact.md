@@ -11,7 +11,7 @@ menu: main
 
 **Call us:** ☎️ +36 30 3676424
 
-**Write us an email:** ✉️ <info@allatrendorseg.com>
+**Write us an email:** ✉️ <allatrendorsegalapitvany@gmail.com>
 
 Or send a message directly from this page!
 
