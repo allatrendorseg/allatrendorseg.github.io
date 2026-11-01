@@ -22,9 +22,10 @@ Mentettkéink gondozásában (etetés, takarítás, foglalkozás, játék a cic�
 
 **Helyszín:** [Budapest, Csárda u. 10, 1112 Hungary](https://www.google.com/maps/place/Budai+Kis%C3%A1llatklinika+Rendel%C5%91int%C3%A9zete/@47.4601847,19.0090975,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dde8b4e67e71:0x6ab64ed305e20d1f!8m2!3d47.4602015!4d19.0112449)
 
+{{< photo-row >}}
 {{< figure src="/images/cathome/cat_cow.jpg">}}
-
 {{< figure src="/images/cathome/Klinika.jpg">}}
+{{< /photo-row >}}
 
 ## Adománygyűjtés
 
@@ -37,9 +38,10 @@ Részletekről tájékozódj [FaceBook](https://www.facebook.com/allatrendorseg2
 - [MOM Bevásárlóközpont](https://maps.app.goo.gl/Vjs4HcyynXdDyoz7A)
 - [Etele Plaza](https://maps.app.goo.gl/M7F764LB3rykKoVk8)
 
+{{< photo-row >}}
 {{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
-
 {{< figure src="/images/volunteering/adomanygyujtes.jpg">}}
+{{< /photo-row >}}
 
 ## Ideiglenes Befogadás
 
