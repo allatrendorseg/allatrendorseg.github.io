@@ -36,8 +36,8 @@ For news and details, check out our [FaceBook page](https://www.facebook.com/all
 
 **Frequent Locations:**
 
-- [MOM Shopping Centre](https://goo.gl/maps/yJKHDEwLaFPC3DKaA)
-- [Etele Plaza](https://www.google.com/maps/search/?api=1&query=Etele+Plaza+Budapest)
+- [MOM Shopping Centre](https://maps.app.goo.gl/Vjs4HcyynXdDyoz7A)
+- [Etele Plaza](https://maps.app.goo.gl/M7F764LB3rykKoVk8)
 
 {{< figure src="/images/volunteering/adomanygyujtes_cut.jpg">}}
 
