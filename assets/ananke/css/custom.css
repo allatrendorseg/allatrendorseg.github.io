@@ -1,3 +1,8 @@
+:root {
+  --brand-blue: #277eaf; /* the blue of the logo's shield */
+  --brand-blue-dark: #1d5f85;
+}
+
 /* Reserve the logo's space before the image arrives, so the header doesn't
    grow and push the page down when it loads. logo-200.png is 200x148. */
 nav img[src$="logo-200.png"] {
@@ -12,4 +17,145 @@ nav img[src$="logo-200.png"] {
    with the photo's average colour (ar_cat_cropped.jpg) in the meantime. */
 header.cover {
   background-color: rgb(143 144 136);
+}
+
+/* ---- Language switcher ----
+   The theme outputs an empty <h4> followed by the language list, before the
+   menu. Turn it into a small pill and put it after the social icons, so it
+   stays in place however long the menu is in each language. */
+nav h4:empty {
+  display: none;
+}
+nav h4 + ul {
+  order: 3;
+  margin: 0 0 0 1rem;
+  padding: 0;
+}
+nav h4 + ul li {
+  padding: 0;
+}
+nav h4 + ul a {
+  display: inline-block;
+  padding: 0.2rem 0.75rem;
+  border: 1px solid rgb(255 255 255 / 0.6);
+  border-radius: 999px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  line-height: 1.4;
+  transition: background-color 0.15s, color 0.15s;
+}
+/* .hover-white is in the selector to beat the theme's .hover-white:hover,
+   which would otherwise keep the text white on the white background */
+nav h4 + ul a.hover-white:hover,
+nav h4 + ul a.hover-white:focus-visible {
+  background-color: #fff;
+  color: #222;
+}
+nav h4 + ul + ul {
+  order: 1;
+}
+nav .ananke-socials {
+  order: 2;
+}
+
+/* ---- Phones and tablets (below the theme's 60em "large" breakpoint) ----
+   The header used to take ~600px on a phone: full-size logo, the language
+   link on its own line, the menu over two lines and a row of social icons.
+   Now: small logo with the language pill next to it, the menu below, and no
+   social icons (they're in the footer). */
+@media screen and (max-width: 59.99em) {
+  nav[role="navigation"] {
+    padding: 0.75rem 1rem;
+  }
+  nav[role="navigation"] > div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+  }
+  /* let the language list, menu and socials join the row above */
+  nav[role="navigation"] > div > div {
+    display: contents;
+  }
+  nav img[src$="logo-200.png"] {
+    width: 88px;
+  }
+  nav h4 + ul {
+    order: 0;
+    margin: 0;
+  }
+  nav h4 + ul + ul {
+    order: 1;
+    flex-basis: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem 1.1rem;
+    margin: 0.75rem 0 0;
+    padding: 0;
+  }
+  nav h4 + ul + ul li {
+    padding: 0;
+    font-size: 1rem;
+  }
+  nav .ananke-socials {
+    display: none;
+  }
+  /* less empty photo below the menu on pages without header text */
+  header .pv6 {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+}
+
+/* ---- Reports page ----
+   A grid of tiles (document icon, year, "PDF") instead of a list of links. */
+.page-report .nested-copy-line-height {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.page-report .nested-copy-line-height p {
+  margin: 0;
+}
+.page-report a[href$=".pdf"] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 1.25rem 1rem 1rem;
+  background: #fff;
+  border: 1px solid rgb(0 0 0 / 0.08);
+  border-radius: 12px;
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.06);
+  color: #222;
+  font-size: 1.25rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+}
+.page-report a[href$=".pdf"]::before {
+  content: "";
+  width: 2.25rem;
+  height: 2.75rem;
+  background-color: var(--brand-blue);
+  /* document with folded corner */
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm-1 1.5L18.5 9H13zM8 13h8v1.5H8zm0 3h8v1.5H8z'/%3E%3C/svg%3E") center / contain no-repeat;
+  mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zm-1 1.5L18.5 9H13zM8 13h8v1.5H8zm0 3h8v1.5H8z'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+.page-report a[href$=".pdf"]::after {
+  content: "PDF";
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: #777;
+}
+.page-report a[href$=".pdf"]:hover,
+.page-report a[href$=".pdf"]:focus-visible {
+  transform: translateY(-2px);
+  border-color: var(--brand-blue);
+  box-shadow: 0 6px 16px rgb(0 0 0 / 0.1);
+  color: var(--brand-blue-dark);
 }
