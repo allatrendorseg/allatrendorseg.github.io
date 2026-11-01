@@ -1,0 +1,8 @@
+/* Reserve the logo's space before the image arrives, so the header doesn't
+   grow and push the page down when it loads. logo-200.png is 200x148. */
+nav img[src$="logo-200.png"] {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 200 / 148;
+}
