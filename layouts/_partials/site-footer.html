@@ -2,7 +2,7 @@
 <footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <div>
-    <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+    <a class="f5 f4-ns fw4 hover-white white-70 dib pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
       &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
     </a>
     <div class="f6 white-50 ph3" title="commit: {{ site.Params.commit | compare.Default "local build" }}">

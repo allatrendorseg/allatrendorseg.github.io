@@ -237,3 +237,28 @@ form .requirements {
   text-decoration-color: currentColor;
   text-decoration-thickness: 2px;
 }
+
+/* ---- Posts ----
+   The theme uses a serif font (Athelas) for post titles and post cards; use
+   the site font instead. The card title's ultra-thin weight is hard to read
+   in Avenir, so make it semibold. */
+.athelas {
+  font-family: inherit;
+}
+h1.athelas.fw1 {
+  font-weight: 600;
+}
+
+/* ---- Footer ----
+   On phones the social icons wrapped onto two lines; keep them in one row
+   and let the row move below the copyright line when there's no room. */
+footer[role="contentinfo"] > div {
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem 1rem;
+}
+footer .ananke-socials {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+}
