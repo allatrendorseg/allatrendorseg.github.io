@@ -21,9 +21,7 @@ jobs:
           extended: true
 
       - name: Build
-        env:
-          HUGO_ENV: production
-        run: hugo -D --minify -d docs
+        run: hugo --minify -d docs
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
