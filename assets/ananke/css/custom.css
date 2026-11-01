@@ -1,6 +1,7 @@
 :root {
   --brand-blue: #277eaf; /* the blue of the logo's shield */
   --brand-blue-dark: #1d5f85;
+  --link-blue: #1f6fa0; /* logo blue, deep enough for readable text (4.97:1 on the page background) */
 }
 
 /* Reserve the logo's space before the image arrives, so the header doesn't
@@ -207,4 +208,32 @@ form .requirements {
   padding-left: 0;
   padding-right: 0;
   margin-top: 0.35rem;
+}
+
+/* ---- Links in page text ----
+   The theme's blue (#357edd) is too light to read comfortably on the grey
+   background, and its hover colour (#96ccff) is barely visible. Use the logo
+   blue (a shade deeper, for contrast) with a thin, slightly lowered underline.
+   On hover: a soft blue highlight behind the link and a solid underline. */
+.nested-links a {
+  color: var(--link-blue);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: rgb(31 111 160 / 0.4);
+  text-underline-offset: 0.2em;
+  /* room for the hover highlight, cancelled out so the text never moves */
+  padding: 0.05em 0.2em;
+  margin: -0.05em -0.2em;
+  border-radius: 4px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone; /* highlight each line of a wrapped link */
+  transition: color 0.15s, background-color 0.15s, text-decoration-color 0.15s;
+}
+.nested-links a:hover,
+.nested-links a:focus,
+.nested-links a:focus-visible {
+  color: var(--brand-blue-dark);
+  background-color: rgb(39 126 175 / 0.14);
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 2px;
 }
