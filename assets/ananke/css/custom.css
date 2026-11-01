@@ -159,3 +159,52 @@ nav .ananke-socials {
   box-shadow: 0 6px 16px rgb(0 0 0 / 0.1);
   color: var(--brand-blue-dark);
 }
+
+/* ---- Photos in pages (figure and photo-row shortcodes) ---- */
+figure.photo {
+  margin: 2rem 0;
+}
+figure.photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* never stretch beyond the real size (logos), and keep tall photos within
+     70% of the screen height (without cropping); centred when narrower than
+     the column */
+  max-width: min(var(--w, 100%), calc(70vh * var(--ar, 1.5)));
+  margin: 0 auto;
+  border-radius: 12px;
+}
+figure.photo figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.875rem;
+  color: #777;
+}
+.photo-row {
+  display: flex;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+.photo-row figure.photo {
+  /* width in proportion to the photo's shape, so all have the same height */
+  flex: var(--ar, 1) 1 0%;
+  min-width: 0;
+  margin: 0;
+}
+.photo-row figure.photo img {
+  max-width: none;
+}
+@media screen and (max-width: 29.99em) {
+  .photo-row {
+    flex-direction: column;
+  }
+}
+
+/* ---- Contact form ----
+   The hint under the email field ("An email address is required.") was
+   indented to match the text inside the input; align it with the labels. */
+form .requirements {
+  padding-left: 0;
+  padding-right: 0;
+  margin-top: 0.35rem;
+}

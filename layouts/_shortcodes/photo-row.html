@@ -1,0 +1,11 @@
+{{- /* Shows the figures inside it side by side at equal height, without cropping
+  (each takes width in proportion to its shape). Stacks on phones.
+
+  Usage:
+  {{< photo-row >}}
+  {{< figure src="/images/a.jpg" >}}
+  {{< figure src="/images/b.jpg" >}}
+  {{< /photo-row >}} */ -}}
+<div class="photo-row">
+{{ .Inner }}
+</div>

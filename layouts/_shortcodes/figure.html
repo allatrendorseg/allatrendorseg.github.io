@@ -1,0 +1,28 @@
+{{- /* Replaces Hugo's built-in figure shortcode for images in static/.
+  Adds the image's real width and height (read at build time), so the browser
+  reserves the space and the text doesn't jump when the image loads, and
+  loading="lazy" so images further down only load when scrolled near.
+
+  Usage: {{< figure src="/images/x.jpg" alt="..." caption="..." >}}
+  (alt and caption are optional) */ -}}
+{{- $src := .Get "src" -}}
+{{- $style := "" -}}
+{{- $w := 0 -}}
+{{- $h := 0 -}}
+{{- $file := printf "static%s" $src -}}
+{{- if fileExists $file -}}
+  {{- with images.Config $file -}}
+    {{- $w = .Width -}}
+    {{- $h = .Height -}}
+    {{- /* --ar: shape, used for equal heights in a photo-row; --w: never stretch beyond real size */ -}}
+    {{- $style = printf "--ar: %.4f; --w: %dpx" (div (float $w) $h) $w -}}
+  {{- end -}}
+{{- else -}}
+  {{- warnf "figure: %q not found in static/ (%s)" $src .Position -}}
+{{- end -}}
+<figure class="photo"{{ with $style }} style="{{ . | safeCSS }}"{{ end }}>
+  <img src="{{ $src }}" alt="{{ .Get "alt" }}"{{ if $w }} width="{{ $w }}" height="{{ $h }}"{{ end }} loading="lazy" decoding="async">
+  {{- with .Get "caption" }}
+  <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>
