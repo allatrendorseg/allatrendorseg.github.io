@@ -4,7 +4,7 @@
 Usage: python3 scripts/check_site.py <build dir>
 
 - every expected page exists in both languages and contains its title
-- every internal link, image, stylesheet and script points to a file that exists
+- every internal link, form, image, stylesheet and script points to a file that exists
 - links to PDFs open in a new tab
 """
 
@@ -33,7 +33,7 @@ EXPECTED_PAGES = {
     "en/posts/forever/index.html": "Transfer of Inheritance",
 }
 
-LINK_ATTRS = {"a": "href", "link": "href", "img": "src", "script": "src", "source": "src"}
+LINK_ATTRS = {"a": "href", "form": "action", "link": "href", "img": "src", "script": "src", "source": "src"}
 
 
 class LinkCollector(HTMLParser):
@@ -84,6 +84,10 @@ def check_links(site):
         base = page_url(site, html_file)
 
         for tag, url, attrs in parser.links:
+            if "ZgotmplZ" in url:
+                # Hugo puts this in place of a URL it rejected as unsafe
+                errors.append(f"invalid URL in the source {base}: <{tag}> {url}")
+                continue
             parsed = urlparse(urljoin(base, url))
             if parsed.scheme not in ("", "http", "https"):
                 continue  # mailto:, tel:, data:, ...

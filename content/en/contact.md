@@ -15,6 +15,6 @@ menu: main
 
 Or send a message directly from this page!
 
-{{< form-contact action="<https://formspree.io/f/xpzezzzn>"  >}}
+{{< form-contact action="https://formspree.io/f/xpzezzzn"  >}}
 
 {{< figure src="/images/kitten.jpg">}}

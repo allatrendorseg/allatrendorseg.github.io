@@ -1,5 +1,15 @@
-<a href="{{ .Destination | safeURL }}"
+{{- /* Replaces Hugo's built-in link hook, so resolve links to pages (e.g. ../contact.md) the same way it does */ -}}
+{{- $u := urls.Parse .Destination -}}
+{{- $href := $u.String -}}
+{{- if and (not $u.IsAbs) $u.Path -}}
+  {{- with or (.PageInner.GetPage $u.Path) (.PageInner.Resources.Get $u.Path) -}}
+    {{- $href = .RelPermalink -}}
+    {{- with $u.RawQuery }}{{ $href = printf "%s?%s" $href . }}{{ end -}}
+    {{- with $u.Fragment }}{{ $href = printf "%s#%s" $href . }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+<a href="{{ $href | safeURL }}"
   {{- with .Title }} title="{{ . }}"{{ end }}
-  {{- if strings.HasSuffix (lower .Destination) ".pdf" }} target="_blank" rel="noopener"{{ end -}}
+  {{- if strings.HasSuffix (lower $u.Path) ".pdf" }} target="_blank" rel="noopener"{{ end -}}
 >{{ .Text }}</a>
 {{- /* chomp trailing newline */ -}}

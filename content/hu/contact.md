@@ -15,6 +15,6 @@ menu: main
 
 Vagy írj üzenetet közvetlenül weblapunkról!
 
-{{< form-contact action="<https://formspree.io/f/xpzezzzn>"  >}}
+{{< form-contact action="https://formspree.io/f/xpzezzzn"  >}}
 
 {{< figure src="/images/kitten.jpg">}}
